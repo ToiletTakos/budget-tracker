@@ -31,7 +31,7 @@ When you reconnect, the items in the ObjectStore are added to the database. You'
 
 ## Links
 
-* Deployed Url:
+* Deployed Url: https://limitless-journey-88725.herokuapp.com/
 
 * Github: https://github.com/ToiletTakos/budget-tracker
 
